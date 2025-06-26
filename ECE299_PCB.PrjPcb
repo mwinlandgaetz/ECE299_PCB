@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Main ECE299_PCB
 
 [Preferences]
 PrefsVaultGUID=
@@ -68,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HMCHFBUE
 
 [Document2]
-DocumentPath=RP2040.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NZQJCCYD
-
-[Document3]
 DocumentPath=..\..\AltiumEDADownloads\SC0914_13_\SC0914_13_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=ECE299_PCB.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZKGLGEQN
 
-[Document5]
+[Document4]
 DocumentPath=Audio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYLRKAOG
 
-[Document6]
+[Document5]
 DocumentPath=IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,13 +134,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUPDHYLT
 
+[Document6]
+DocumentPath=IlamStuff.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=IlamStuff.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=bbc1c8a4-54df-4c06-b2e2-9f828a48d445
 Description=Main ECE299_PCB
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=R1|UniqueId=\IVSRVKKI|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [Configuration1]
