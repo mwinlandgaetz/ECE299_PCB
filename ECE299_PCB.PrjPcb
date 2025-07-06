@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=RDA5807
 
 [Preferences]
 PrefsVaultGUID=
@@ -358,6 +359,14 @@ DocumentUniqueId=
 [ProjectVariant1]
 UniqueId=bbc1c8a4-54df-4c06-b2e2-9f828a48d445
 Description=Main ECE299_PCB
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueId=d24a7c0e-d719-4296-b67f-75980e218b5d
+Description=RDA5807
 AllowFabrication=0
 ParameterCount=0
 VariationCount=0
