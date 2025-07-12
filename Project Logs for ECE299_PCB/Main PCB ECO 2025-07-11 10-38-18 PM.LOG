@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DIN Pin=U7-21
+Removed Pin From Net: NetName=DAC_GPIO1 Pin=U7-25
+Added Pin To Net: NetName=DAC_GPIO1 Pin=U7-21
+Added Pin To Net: NetName=DIN Pin=U7-25
+Added Pin To Net: NetName=RADIO_RES Pin=U7-32

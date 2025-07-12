@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FSYNC Pin=U7-22
+Removed Pin From Net: NetName=BCLK Pin=U7-24
+Removed Pin From Net: NetName=DIN Pin=U7-25
+Added Pin To Net: NetName=DIN Pin=U7-22
+Added Pin To Net: NetName=FSYNC Pin=U7-24
+Added Pin To Net: NetName=BCLK Pin=U7-25
