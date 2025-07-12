@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=L_FILTERED_2 Pin=R3-2
+Removed Pin From Net: NetName=R_FILTERED_2 Pin=R6-2
+Removed Member From Class: ClassName=Audio Member=R3
+Removed Member From Class: ClassName=Audio Member=R6
+Added Pin To Net: NetName=L_FILTERED_2 Pin=C7-1
+Added Pin To Net: NetName=R_FILTERED_2 Pin=C8-1
+Added Pin To Net: NetName=L_FILTERED_2 Pin=L1-2
+Added Pin To Net: NetName=R_FILTERED_2 Pin=L2-2
+Added Member To Class: ClassName=Audio Member=Component R40 RC0603FR-07100KL

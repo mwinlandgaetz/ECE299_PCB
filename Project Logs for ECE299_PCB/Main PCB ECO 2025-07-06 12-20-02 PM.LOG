@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=3V3_REG Pin=U8-2
+Added Component: Designator=C24(CAPC1005X55X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1H220JZ01D"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC1005X55X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1H220JZ01D"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESC1005X40X25ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710ML"; VariantName = "[No Variations]"
+Added Component: Designator=X1(FC-135 32.7680KA-AG0)
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GPO3_2 Pin=C24-2
+Added Pin To Net: NetName=GPO3_2 Pin=R44-1
+Added Pin To Net: NetName=GPO3_2 Pin=U8-2
+Added Pin To Net: NetName=GPO3_2 Pin=X1-1
+Added Net: Name=GPO3_2
+Added Pin To Net: NetName=RCLK_2 Pin=C25-2
+Added Pin To Net: NetName=RCLK_2 Pin=R44-2
+Added Pin To Net: NetName=RCLK_2 Pin=U8-13
+Added Pin To Net: NetName=RCLK_2 Pin=X1-2
+Added Net: Name=RCLK_2
+Added Member To Class: ClassName=Audio Member=Component C24 GRM1555C1H220JZ01D
+Added Member To Class: ClassName=Audio Member=Component C25 GRM1555C1H220JZ01D
+Added Member To Class: ClassName=Audio Member=Component R44 RC0402JR-0710ML
+Added Member To Class: ClassName=Audio Member=Component X1 XTAL

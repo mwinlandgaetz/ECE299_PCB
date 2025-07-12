@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=TS_LED Pin=*1-1
+Removed Pin From Net: NetName=SCLK Pin=*1-19
+Removed Pin From Net: NetName=AMP_SHDN Pin=*1-21
+Removed Pin From Net: NetName=AMP_MUTE Pin=*1-22
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=3V3_REG Pin=C21-2
+Removed Pin From Net: NetName=LOUT_RAD_2 Pin=U1-1
+Removed Pin From Net: NetName=SCLK Pin=U1-11
+Removed Pin From Net: NetName=3V3_REG Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Pin From Net: NetName=ROUT_RAD_2 Pin=U1-16
+Removed Member From Class: ClassName=Audio Member=C5
+Removed Member From Class: ClassName=Audio Member=C21
+Removed Member From Class: ClassName=Audio Member=C22
+Removed Member From Class: ClassName=Audio Member=J9
+Removed Member From Class: ClassName=Audio Member=U1
+Removed Member From Class: ClassName=POWER Member=Net*1_40
+Change Component Designator: OldDesignator=*1 NewDesignator=U7
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Added Component: Designator=*(RDA5807M_Module_SM)
+Add component (AddParameter): Name = "ki_fp_filters"; Value = "RDA5807M_Module_SM RDA5807M_Module_TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RDA5807M_Module"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_REG Pin=*-5
+Added Pin To Net: NetName=GND Pin=*-6
+Added Pin To Net: NetName=SD_CS_5 Pin=U7-1
+Added Pin To Net: NetName=AMP_MUTE Pin=U7-21
+Added Pin To Net: NetName=AMP_SHDN Pin=U7-22
+Added Pin To Net: NetName=TS_LED Pin=U7-25
+Change Net Name : Old Net Name=Net*1_31 New Net Name=NetU5_8
+Change Net Name : Old Net Name=Net*1_40 New Net Name=NetQ8_1
+Added Pin To Net: NetName=I2C_SCLK Pin=*-2
+Added Pin To Net: NetName=I2C_SCLK Pin=U7-20
+Added Net: Name=I2C_SCLK
+Added Pin To Net: NetName=I2C_SDIO Pin=*-1
+Added Pin To Net: NetName=I2C_SDIO Pin=U7-19
+Added Net: Name=I2C_SDIO
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=X1-1
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=RADIO_EN_2 Pin=Q1-3
+Added Pin To Net: NetName=RADIO_EN_2 Pin=Q2-3
+Added Net: Name=RADIO_EN_2
+Added Member To Class: ClassName=Audio Member=Component * RDA5807M_Module
+Added Member To Class: ClassName=POWER Member=Wire NetQ8_1

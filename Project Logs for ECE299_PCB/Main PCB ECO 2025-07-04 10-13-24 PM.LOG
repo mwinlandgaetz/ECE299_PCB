@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TS_XR Pin=U5-4
+Removed Pin From Net: NetName=TS_YU Pin=U5-5
+Removed Pin From Net: NetName=TS_XL Pin=U5-6
+Removed Pin From Net: NetName=TS_YD Pin=U5-7
+Added Pin To Net: NetName=TS_YD Pin=U5-4
+Added Pin To Net: NetName=TS_XL Pin=U5-5
+Added Pin To Net: NetName=TS_YU Pin=U5-6
+Added Pin To Net: NetName=TS_XR Pin=U5-7

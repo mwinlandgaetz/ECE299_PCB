@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-S1
+Removed Pin From Net: NetName=GND Pin=J6-S2
+Removed Member From Class: ClassName=Audio Member=J6
+Change Component Comment : Designator=J1 Old Comment=SPK_L New Comment=SPEAKER_L
+Change Component Comment : Designator=J2 Old Comment=SPK_R New Comment=SPEAKER_R
+Change Component Comment : Designator=J3 Old Comment=TRS New Comment=5-PIN HEADER
+Added Component: Designator=X2(FM_ANTENNA_OUT)
+Added Pin To Net: NetName=NetC21_1 Pin=X2-1
+Added Member To Class: ClassName=Audio Member=Component X2 ANT

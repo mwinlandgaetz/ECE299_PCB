@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net*1_40 Pin=J6-A9
+Removed Pin From Net: NetName=GND Pin=J6-A12
+Removed Pin From Net: NetName=Net*1_40 Pin=J6-B9
+Removed Pin From Net: NetName=GND Pin=J6-B12
+Removed Pin From Net: NetName=GND Pin=J6-SH1
+Removed Pin From Net: NetName=GND Pin=J6-SH2
+Removed Pin From Net: NetName=GND Pin=J6-SH3
+Removed Pin From Net: NetName=GND Pin=J6-SH4
+Removed Member From Class: ClassName=Power Member=J6
+Removed Member From Class: ClassName=Power Member=J7
+Change Component Footprint: Designator=J3 Old Footprint=2-pin Header (Generic) New Footprint=5-pin Header (Generic)
+Added Pin To Net: NetName=NetC11_2 Pin=J3-3
+Added Pin To Net: NetName=LIN_AMP_2 Pin=J3-4
+Added Pin To Net: NetName=NetC9_2 Pin=J3-5

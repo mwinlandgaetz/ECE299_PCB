@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR40_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=R38-2
+Added Pin To Net: NetName=NetR33_1 Pin=R39-2
+Added Pin To Net: NetName=NetR33_1 Pin=U3-3
+Added Net: Name=NetR33_1
+Added Member To Class: ClassName=Audio Member=Component R33 RC0603FR-07100KL
+Added Member To Class: ClassName=Audio Member=Component R38 RC0603FR-07100KL
+Added Member To Class: ClassName=Audio Member=Component R39 RC0603FR-0747KL
+Added Member To Class: ClassName=Audio Member=Component R41 RC0603FR-07100KL
+Added Member To Class: ClassName=Audio Member=Component R42 RC0603FR-0747KL

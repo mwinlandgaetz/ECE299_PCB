@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=Net*1_26 New Net Name=ADC_MUX_2_5
+Change Net Name : Old Net Name=Net*1_27 New Net Name=ADC_MUX_1_5
+Change Net Name : Old Net Name=Net*1_29 New Net Name=ADC_MUX_0_5
+Change Net Name : Old Net Name=Net*1_34 New Net Name=VSENSE

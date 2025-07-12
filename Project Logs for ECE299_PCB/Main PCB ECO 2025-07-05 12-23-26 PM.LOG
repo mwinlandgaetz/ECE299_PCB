@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=S1-SH1
+Removed Pin From Net: NetName=GND Pin=S1-SH2
+Change Component Footprint: Designator=S1 Old Footprint=XDCR_PEC12R-4225F-S0024 New Footprint=5-pin Header (Generic)
+Added Pin To Net: NetName=ENC_A Pin=S1-3
+Added Pin To Net: NetName=ENC_B Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S1-5

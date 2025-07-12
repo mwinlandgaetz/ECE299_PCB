@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=S NewDesignator=Q1
+Added Pin To Net: NetName=IR_LED_OUT Pin=U7-22

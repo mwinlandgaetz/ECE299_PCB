@@ -1,0 +1,5 @@
+Replace Part * SD_CARD_READER in D:\! University of Victoria\Y2\ECE299\PROJECT\ECE299_PCB\PiPico.SchDoc with SD_CARD_READER from ECE299_PCB.SCHLIB
+Replace Part *1 RPi_Pico_SM in D:\! University of Victoria\Y2\ECE299\PROJECT\ECE299_PCB\PiPico.SchDoc with RPi_Pico_SM from IlamStuff.SchLib
+Update Managed Component C19 From CMP-04424-000012-1[F980G107MMA] To CMP-04424-000012-1[F980G107MMA] in PiPico.SchDoc
+Update Managed Component C20 From CMP-2006-03713-1[C0603C105K3RACTU] To CMP-2006-03713-1[C0603C105K3RACTU] in PiPico.SchDoc
+Update Managed Component U5 From CMP-04892-000035-1[TMUX1208PWR] To CMP-04892-000035-1[TMUX1208PWR] in PiPico.SchDoc

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ENC_A Pin=S1-A
+Removed Pin From Net: NetName=ENC_B Pin=S1-B
+Removed Pin From Net: NetName=GND Pin=S1-C
+Change Footprint: Cannot match pads with new footprint in component :S1 Footprint:5-pin Header (Generic)
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Pin To Net: Unknown Pin: Pin S1-5
+Added Member To Class: ClassName=Audio Member=Component C22 GRM188R71C474KA88D

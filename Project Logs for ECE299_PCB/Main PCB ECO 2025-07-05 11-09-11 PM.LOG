@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=L_PWM Pin=U7-14
+Removed Pin From Net: NetName=R_PWM Pin=U7-15
+Added Pin To Net: NetName=SD_CS_5 Pin=U7-1
+Added Pin To Net: NetName=TS_CS Pin=U7-7
+Added Pin To Net: NetName=ENC_BTN Pin=U7-11
+Added Pin To Net: NetName=TS_LED Pin=U7-12
+Added Pin To Net: NetName=TS_RST Pin=U7-14
+Added Pin To Net: NetName=RADIO_RES Pin=U7-15
+Added Pin To Net: NetName=BTN_1 Pin=U7-16
+Added Pin To Net: NetName=BTN_2 Pin=U7-17
+Added Pin To Net: NetName=AMP_SHDN Pin=U7-21
+Added Pin To Net: NetName=AMP_MUTE Pin=U7-22
+Added Pin To Net: NetName=R_PWM Pin=U7-24
+Added Pin To Net: NetName=L_PWM Pin=U7-25

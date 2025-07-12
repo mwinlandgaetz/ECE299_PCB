@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=R_PWM Pin=U7-24
+Removed Pin From Net: NetName=L_PWM Pin=U7-25
+Added Pin To Net: NetName=L_PWM Pin=U7-24
+Added Pin To Net: NetName=R_PWM Pin=U7-25

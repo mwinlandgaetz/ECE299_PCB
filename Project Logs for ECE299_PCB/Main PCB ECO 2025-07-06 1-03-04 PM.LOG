@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RADIO_RES Pin=U7-15
+Removed Pin From Net: NetName=IR_LED_OUT Pin=U7-22
+Added Pin To Net: NetName=IR_LED_OUT Pin=U7-15
+Added Pin To Net: NetName=RADIO_RES Pin=U7-22

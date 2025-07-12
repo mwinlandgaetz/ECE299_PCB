@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=I2C_SDIO Pin=*-1
+Removed Pin From Net: NetName=I2C_SCLK Pin=*-2
+Removed Pin From Net: NetName=3V3_REG Pin=*-5
+Removed Pin From Net: NetName=GND Pin=*-6
+Removed Pin From Net: NetName=LOUT_RAD_2 Pin=Q1-2
+Removed Pin From Net: NetName=RADIO_EN_2 Pin=Q1-3
+Removed Pin From Net: NetName=L_PWM Pin=Q1-4
+Removed Pin From Net: NetName=L_PWM Pin=Q1-6
+Removed Pin From Net: NetName=ROUT_RAD_2 Pin=Q2-2
+Removed Pin From Net: NetName=RADIO_EN_2 Pin=Q2-3
+Removed Pin From Net: NetName=R_PWM Pin=Q2-4
+Removed Pin From Net: NetName=R_PWM Pin=Q2-6
+Removed Pin From Net: NetName=SD_CS_5 Pin=U7-1
+Removed Pin From Net: NetName=ENC_BTN Pin=U7-7
+Removed Pin From Net: NetName=BTN_1 Pin=U7-11
+Removed Pin From Net: NetName=BTN_2 Pin=U7-12
+Removed Pin From Net: NetName=AMP_MUTE Pin=U7-21
+Removed Pin From Net: NetName=AMP_SHDN Pin=U7-22
+Removed Pin From Net: NetName=TS_LED Pin=U7-25
+Removed Member From Class: ClassName=Audio Member=*
+Removed Member From Class: ClassName=Audio Member=Q2
+Change Component Footprint: Designator=L1 Old Footprint=2-pin Header (Generic) New Footprint=FP-LQM18DN_70-MFG
+Change Component Footprint: Designator=L2 Old Footprint=2-pin Header (Generic) New Footprint=FP-LQM18DN_70-MFG
+Change Component Footprint: Designator=Q1 Old Footprint=FP-TSOT26-MFG New Footprint=FP-SOT363-IPC_C
+Change Component Comment : Designator=Q1 Old Comment=DMG6601LVT-7 New Comment=2N7002DW-7-F
+Change Component Comment : Designator=L1 Old Comment=INDUCTOR_THT New Comment=LQM18DH220M70L
+Change Component Comment : Designator=L2 Old Comment=INDUCTOR_THT New Comment=LQM18DH220M70L
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E2F78C3B-F19C-445C-A492-49DF451D86F1 New ItemGUID=16B5C7E2-D8E0-4B34-838D-D02C03959C51 Old RevisionGUID=7DEE2CF8-9682-4A63-A81E-F0F0095144BC New RevisionGUID=25993958-8379-453B-A500-474F9C6EAC3A
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=02B57549-1AE2-4393-9785-DEBEC91328BE Old RevisionGUID= New RevisionGUID=A4A214D7-5E48-4EBA-9571-6ACC0688FB3A
+Change Managed Component Library Link : Designator=L2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=02B57549-1AE2-4393-9785-DEBEC91328BE Old RevisionGUID= New RevisionGUID=A4A214D7-5E48-4EBA-9571-6ACC0688FB3A
+Change component parameters: Designator = "L1" ("L1"); Footprint = "2-pin Header (Generic)"; UniqueID = "\BJAGQXGC" ("\BJAGQXGC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "950µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "22µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "119446615"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3.12O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RMS Current (Irms)"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "15MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series Resistance"; Value = "3.12O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "2-pin Header (Generic)"; UniqueID = "\XRQIGUMN" ("\XRQIGUMN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "950µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "22µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "119446615"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3.12O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RMS Current (Irms)"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "15MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series Resistance"; Value = "3.12O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FP-TSOT26-MFG"; UniqueID = "\VEGHXCKC" ("\VEGHXCKC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-363"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "115mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "115mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "70V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Resistance"; Value = "4.4R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "60V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dual Supply Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Dual"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FET Type"; Value = "2 N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "50pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "200mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-State Resistance"; Value = "7.5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "400mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "7.5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "11ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "7ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "60V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000212oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.35mm"; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP-GRM15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H471KA01-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 0.1UF 16V X7R 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC10050X219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R71C104KA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/grm155r71c104ka88d-murata-196880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "GRM15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16Vdc"; VariantName = "[No Variations]"
+Added Component: Designator=C21(FP-GRM155-0_05-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "10GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=C22(FP-GRM155-0_1-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "470nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "500um"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "500um"; VariantName = "[No Variations]"
+Added Component: Designator=J6(2-pin Header (Generic))
+Added Component: Designator=U8(SOIC_A10-GS_SIL)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3_REG Pin=C5-2
+Added Pin To Net: NetName=L_PWM Pin=Q1-1
+Added Pin To Net: NetName=RADIO_EN_2 Pin=Q1-2
+Added Pin To Net: NetName=ROUT_RAD_2 Pin=Q1-3
+Added Pin To Net: NetName=R_PWM Pin=Q1-4
+Added Pin To Net: NetName=RADIO_EN_2 Pin=Q1-5
+Added Pin To Net: NetName=LOUT_RAD_2 Pin=Q1-6
+Added Pin To Net: NetName=L_PWM Pin=R2-1
+Added Pin To Net: NetName=R_PWM Pin=R5-1
+Added Pin To Net: NetName=3V3_REG Pin=U5-2
+Added Pin To Net: NetName=LOUT_RAD_2 Pin=U8-1
+Added Pin To Net: NetName=3V3_REG Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=3V3_REG Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-10
+Added Pin To Net: NetName=I2C_SCLK Pin=U8-11
+Added Pin To Net: NetName=I2C_SDIO Pin=U8-12
+Added Pin To Net: NetName=3V3_REG Pin=U8-14
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=ROUT_RAD_2 Pin=U8-16
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=X1-1
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=U8-6
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=U8-8
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=J6-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U8-7
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=RADIO_RES Pin=U8-9
+Added Net: Name=RADIO_RES
+Added Member To Class: ClassName=Audio Member=Component C5 GRM155R71C104KA88D
+Added Member To Class: ClassName=Audio Member=Component C21 GRM1555C1H102JA01D
+Added Member To Class: ClassName=Audio Member=Component C22 GRM155R61H474KE11D
+Added Member To Class: ClassName=Audio Member=Component J6 2-PIN HEADER
+Added Member To Class: ClassName=PiPico Member=Component U7 RPi_Pico_SM
+Added Member To Class: ClassName=Audio Member=Component U8 SI4732-A10-GS

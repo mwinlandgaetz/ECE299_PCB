@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AMP_MUTE Pin=U7-22
+Added Pin To Net: NetName=RADIO_EN Pin=Q1-2
+Added Pin To Net: NetName=RADIO_EN Pin=Q1-5
+Added Pin To Net: NetName=RADIO_EN Pin=U7-22
+Added Net: Name=RADIO_EN

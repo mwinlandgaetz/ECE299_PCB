@@ -1,0 +1,3 @@
+Added Component: Designator=X1(FM_ANTENNA_OUT)
+Added Pin To Net: NetName=NetC5_1 Pin=X1-1
+Added Member To Class: ClassName=Audio Member=Component X1 ANT

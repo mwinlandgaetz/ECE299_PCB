@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC22_2 Pin=J7-S1
+Removed Pin From Net: NetName=NetC22_2 Pin=J7-S2
+Change Component Footprint: Designator=J7 Old Footprint=FP-CONSMA001-SMD-G-T-MFG New Footprint=2-pin Header (Generic)
+Change Component Comment : Designator=J7 Old Comment=CONSMA001-SMD-G-T New Comment=2-PIN HEADER
+Change component parameters: Designator = "J7" ("J7"); Footprint = "FP-CONSMA001-SMD-G-T-MFG"; UniqueID = "\DMVLWNHV" ("\DMVLWNHV")
+Added Pin To Net: NetName=NetC22_2 Pin=J7-2
